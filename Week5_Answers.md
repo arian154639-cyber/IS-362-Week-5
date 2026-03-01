@@ -1,0 +1,5 @@
+# The northernmost airport in the United STates is Wiley Post-Will Rogers Memorial Airport.
+# The easternmost airport in the United States is Eareckson Air Station.
+# The airport with the highest wind speed on February 12th, 2013, is LGA.
+
+# I decided to use the lat/lon values to determine my answers as that seemed like the simplest solution. During my research I discovered that the lat/lon for Dillant Hopkins Airport were switched, so I switched them back using Python. I noticed the tzone value was also "NA" so I corrected that too. Eareckson Air Station's situation was tricky because my research told me that Eastport Municpal Airport was the easternmost airport, so I decided to use longitude values to determine my answer for both questions 1 and 2. Lastly, in the weather CSV, there was a row (1009) that had a wind speed of 1048+ mph. That is physically impossible on Earth, so I converted that to 0. Doing so resulted in LGA being the windiest location instead on that day.
