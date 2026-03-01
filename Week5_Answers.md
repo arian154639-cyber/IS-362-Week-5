@@ -1,4 +1,4 @@
-# The northernmost airport in the United STates is Wiley Post-Will Rogers Memorial Airport.
+# The northernmost airport in the United States is Wiley Post-Will Rogers Memorial Airport.
 # The easternmost airport in the United States is Eareckson Air Station.
 # The airport with the highest wind speed on February 12th, 2013, is LGA.
 
